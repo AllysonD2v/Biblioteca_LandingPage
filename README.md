@@ -15,3 +15,5 @@ This project grew out of an exercise at my tech course at Grau Técnico, unit Bo
 <p>2. The userlog.txt file has only the role to demonstrate that the PHP form indeed caught the data inputed by the user.</p>
 <p>3. For real world projects, of course the userlog.txt should be removed. With a database integration used in place of it.</p>
 <p>4. Unfortunately, for those who was not being gifted by heaven to born as brazilians or portuguese, I warn you that the homepage was wrote in Portuguese.
+
+<quote><i><b>>Good artists copy; great artists steal.</b></i></quote>
