@@ -39,6 +39,7 @@
             Venha ser nosso cliente :-)
           </p>
 
+		
           <div class="info">
             <div class="information">
               <img src="img/location.png" class="icon" alt="" />
