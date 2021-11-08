@@ -93,7 +93,7 @@
             </div>
             
         <div class="input-container">
-              <input type="text" name="password" class="input" />
+              <input type="password" name="password" class="input" />
               <label for="">Senha</label>
               <span>Password</span>
             </div>
